@@ -2,5 +2,5 @@
 
 add text here 
 
-![Alt Text](https://giphy.com/embed/CzQ9Kl1UIt8hG)
+![Alt Text](https://media.giphy.com/media/CzQ9Kl1UIt8hG/giphy.gif)
 
